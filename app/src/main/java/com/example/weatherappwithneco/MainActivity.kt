@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-
+// first branch after main
 //        val interceptor = HttpLoggingInterceptor()
 //        interceptor.level = HttpLoggingInterceptor.Level.BODY
 //
